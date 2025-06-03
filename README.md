@@ -1,11 +1,11 @@
 # AI-Driven Loyalty Program Optimization for Retail Supermarkets in Kenya
 
-**Group 2:** Sylvia, Clive, Ezekiel, Brenda, Isaiah  
+**Capstone Group 2:** Sylvia, Clive, Ezekiel, Brenda, Isaiah  
 **Date:** June 2025
 
 ---
 
-## 📌 Business Context & Problem
+## Business Context & Problem
 
 - Traditional loyalty programs are generic and poorly targeted.
 - Result in low engagement, inefficient promotions, and declining retention.
@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 1. Segment customers using behavioral data.
 2. Predict customer churn.
@@ -21,7 +21,7 @@
 
 ---
 
-## 📂 Data Overview
+## Data Overview
 
 - `customer_info.csv`: Demographics and customer metadata.
 - `POS_Transactions.csv`: Transaction details including basket size and spend.
@@ -29,7 +29,7 @@
 
 ---
 
-## 🔧 Methodology
+## Methodology
 
 - Data cleaning and preprocessing.
 - RFM analysis (Recency, Frequency, Monetary).
@@ -38,7 +38,7 @@
 
 ---
 
-## 🔍 Churn Prediction Results
+## Churn Prediction Results
 
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
@@ -52,7 +52,7 @@
 
 ---
 
-## 🧩 Customer Segmentation
+## Customer Segmentation
 
 ### Cluster Visualization
 ![Customer Segments](customer_segments.png)
@@ -61,7 +61,7 @@
 
 ---
 
-## 💡 Business Insights
+## Business Insights
 
 - Identify and prioritize high-value segments for tailored offers.
 - Intervene early with customers predicted to churn.
@@ -69,7 +69,7 @@
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 - Deploy churn model for regular customer monitoring.
 - Personalize rewards based on customer segments.
@@ -77,7 +77,7 @@
 
 ---
 
-## 📈 Next Steps & Limitations
+## Next Steps & Limitations
 
 - Implement model feedback loop.
 - Monitor and retrain on new data regularly.
@@ -86,6 +86,7 @@
 
 ---
 
-## 🙏 Thank You
+## More Information
+Find the full analysis in the [Capstone Jupyter Notebook](./Group_2_Phase_5_Project_Capstone.ipynb) or this [presentation](./presentation.pdf).
 
-**Questions?**  
+For additional info, contact Capstone Group 2 Team
