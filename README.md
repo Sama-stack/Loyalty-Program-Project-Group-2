@@ -23,7 +23,7 @@ This project leverages AI to optimize loyalty programs for Kenyan supermarkets b
 
 ---
 ## Success Metrics
-Churn prediction accuracy ≥ 80%
+- Churn prediction accuracy ≥ 80%
 - Clustering silhouette score > 0.45
 - ROC-AUC score ≥ 90%
 
