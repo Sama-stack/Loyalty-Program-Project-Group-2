@@ -53,7 +53,7 @@ loyalty_app/
 ├── xgboost_model.joblib  # Trained churn model
 ├── kmeans_model.joblib   # Trained segmenter
 ├── scaler.joblib         # Preprocessing scaler
-
+```
 Upload customer and transaction CSVs to generate insights.
 
 ---
