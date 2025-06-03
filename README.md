@@ -4,6 +4,8 @@
 **Date:** June 2025
 
 ---
+## Overview
+This project leverages AI to optimize loyalty programs for Kenyan supermarkets by analyzing customer data to boost retention, increase repeat purchases, and personalize promotions
 
 ## Business Context & Problem
 
@@ -17,12 +19,19 @@
 
 1. Segment customers using behavioral data.
 2. Predict customer churn.
-3. Identify high-value customers.
+3. Identify high-value customers to prioritize in retention strategies.
+
+---
+## Success Metrics
+Churn prediction accuracy ≥ 80%
+- Clustering silhouette score > 0.45
+- ROC-AUC score ≥ 90%
 
 ---
 
 ## Data Overview
 
+Two main datasets were used:
 - `customer_info.csv`: Demographics and customer metadata.
 - `POS_Transactions.csv`: Transaction details including basket size and spend.
 - Combined and engineered into RFM features and churn labels.
