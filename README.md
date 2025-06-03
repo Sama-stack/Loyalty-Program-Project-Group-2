@@ -46,8 +46,10 @@ A Streamlit dashboard that:
 - Provides evaluation plots (Confusion Matrix, ROC, Elbow, Silhouette)
 
 ### App Structure
+```
+loyalty_app/
 ├── app.py                # Main Streamlit app
-├── utils.py              # Preprocessing, training, evaluation functions
+├── utils.py              # Preprocessing, training, evaluation
 ├── xgboost_model.joblib  # Trained churn model
 ├── kmeans_model.joblib   # Trained segmenter
 ├── scaler.joblib         # Preprocessing scaler
