@@ -38,6 +38,24 @@
 
 ---
 
+## Deployment
+A Streamlit dashboard that:
+- Predicts customer churn using XGBoost
+- Segments customers using KMeans clustering
+- Uses RFM features (Recency, Frequency, Monetary)
+- Provides evaluation plots (Confusion Matrix, ROC, Elbow, Silhouette)
+
+### App Structure
+├── app.py                # Main Streamlit app
+├── utils.py              # Preprocessing, training, evaluation functions
+├── xgboost_model.joblib  # Trained churn model
+├── kmeans_model.joblib   # Trained segmenter
+├── scaler.joblib         # Preprocessing scaler
+
+Upload customer and transaction CSVs to generate insights.
+
+---
+
 ## Churn Prediction Results
 
 ### Confusion Matrix
