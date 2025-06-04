@@ -116,6 +116,6 @@ Upload customer and transaction CSVs to generate insights.
 ---
 
 ## More Information
-Find the full analysis in the [Capstone Jupyter Notebook](./Group_2_Phase_5_Project_Capstone.ipynb) or this [presentation](./presentation.pdf).
+Find the full analysis in the [Capstone Jupyter Notebook](./Group_2_Phase_5_Project_Capstone.ipynb) or this [presentation](./AI_Loyalty_Program_Presentation.pdf) and [project Report](./Loyalty_Program_Project_Report.pdf).
 
 For additional info, contact Capstone Group 2 Team
